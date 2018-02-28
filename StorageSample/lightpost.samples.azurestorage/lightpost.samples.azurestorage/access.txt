@@ -1,0 +1,4 @@
+﻿key1:
+ObrI3NjL482kWLpB7vIIlZlTSV46TwC0irgEeGG9i3JAYnLUJ0WkDoJAgImH7y/FJwENfVP9fQols8aUWIlHJA==
+Connection string:
+DefaultEndpointsProtocol=https;AccountName=genericaudioupload;AccountKey=ObrI3NjL482kWLpB7vIIlZlTSV46TwC0irgEeGG9i3JAYnLUJ0WkDoJAgImH7y/FJwENfVP9fQols8aUWIlHJA==;EndpointSuffix=core.windows.net
